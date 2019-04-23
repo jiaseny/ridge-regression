@@ -1,6 +1,6 @@
 # Iterative, Sketching-based Ridge Regression
 
-Python 2.7 codes for the paper:
+Python 2.7 code for the paper:
 
     An Iterative, Sketching-based Framework for Ridge Regression
     Agniva Chowdhury, Jiasen Yang, and Petros Drineas
